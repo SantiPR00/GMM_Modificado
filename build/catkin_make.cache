@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/santi/semantic/devel -DCMAKE_INSTALL_PREFIX=/home/santi/semantic/install -G Unix Makefiles
