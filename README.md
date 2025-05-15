@@ -35,12 +35,12 @@ python3 segment_image_gmm.py
 ## Folder Structure
 
 ```
-GMM_Modificado/
+semantic/
 ├── src/
 │   └── Road-Segmentation-using-different-classifiers/
-│       ├── segment_image_gmm.py
-│       ├── utils/
-│       └── images/
+│       ├── datasets/
+│       ├── GMM/
+│       └── smai.pptx/
 ├── outputs/
 ├── scripts/
 ```
