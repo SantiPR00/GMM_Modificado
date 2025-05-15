@@ -41,8 +41,8 @@ semantic/
 │       ├── datasets/
 │       ├── GMM/
 │       └── smai.pptx/
-├── outputs/
-├── scripts/
+├── build/
+├── devel/
 ```
 
 ## Notes
